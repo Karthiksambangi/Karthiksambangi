@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Karthik%20Sambangi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Sambangi%20Narappagari%20Karthik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+intelligent+systems+at+scale;Turning+data+into+decisions+with+ML%2FAI;Full+stack+from+model+to+production;Crafting+software+that+solves+real+problems)](https://git.io/typing-svg)
 
@@ -30,17 +30,18 @@
 ## About
 
 ```yaml
-name: Karthik Sambangi
-role: Associate Software Engineer @ Transcend Street India Pvt Ltd
-location: Hyderabad, Telangana, India
-education:
-  degree: B.Tech in Information Technology
-  institution: Andhra University College of Engineering, Visakhapatnam
-  year: 2026
-  cgpa: 8.92 / 10 — Top 10%
+Name    : Sambangi Narappagari Karthik
+Role    : Associate Software Engineer Trainee @ Transcend Street India Pvt Ltd
+Location: Hyderabad, Telangana, India
+Education degree : B.Tech in Information Technology
+Institution: Andhra University College of Engineering, Visakhapatnam
+Year       : 2026
+Cgpa       : 8.92 / 10 — Top 10%
+  
+
 ```
 
-Software engineer with a strong foundation in full-stack development and applied machine learning, graduated from Andhra University College of Engineering with a CGPA of 8.92. I design and ship production-grade systems — from training ML pipelines and deploying multi-agent AI architectures to building responsive front-ends and scalable back-end APIs.
+Software engineer with a strong foundation in full-stack development and applied machine learning, graduated from Andhra University College of Engineering with a CGPA of 8.92. Sambangi Narappagari Karthik designs and ships production-grade systems — from training ML pipelines and deploying multi-agent AI architectures to building responsive front-ends and scalable back-end APIs.
 
 My engineering philosophy is product-first: every system I build is driven by measurable outcomes. I've shipped across the stack — React and Next.js front-ends, FastAPI and Node.js back-ends, YOLOv8-based computer vision pipelines, and LLM-powered agentic systems on Google Cloud. I hold internship experience in ML at Polystack Technologies and actively compete in engineering hackathons.
 
@@ -198,15 +199,15 @@ ReadAR overlays dyslexia-friendly typographic transformations — adjusted lette
 
 ## Experience
 
-### Associate Software Engineer
+### Associate Software Engineer Trainee
 **Transcend Street India Pvt Ltd** &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; June 2026 – Present
 
-Joined as part of the 2026 engineering cohort, contributing to software development across the product stack. Working within a structured engineering team environment with an emphasis on production-quality code, collaborative delivery, and continuous learning.
+Recently joined the engineering team as a 2026 B.Tech graduate. Currently in the onboarding phase — getting up to speed with the codebase, internal tooling, team workflows, and engineering practices. Actively ramping up to take on independent feature work in the coming weeks.
 
-- Developing and shipping features across front-end and back-end layers of the product
-- Contributing to code reviews, technical discussions, and sprint-based delivery cycles
-- Building familiarity with enterprise software engineering processes and team workflows
-- Applying university-level CS fundamentals and project experience to real-world product challenges
+- Onboarding to the product codebase and internal development environment
+- Learning team conventions, code review processes, and delivery workflows
+- Collaborating with senior engineers to understand system architecture and design patterns
+- Bringing strong CS fundamentals, full-stack project experience, and ML knowledge to the team
 
 ![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-818cf8?style=flat-square&logo=javascript&logoColor=white)
@@ -252,13 +253,7 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 **Google Cloud**
 
-[![Google Gen AI](https://img.shields.io/badge/Google%20Cloud-Gen%20AI%20Academy%20APAC%20Edition-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/learn/training)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Generative%20AI%20Fundamentals-34A853?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/learn/training)
-
-**NPTEL — IIT**
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-0f4c81?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in)
-[![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Science%20%26%20Programming-0f4c81?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in)
+[![Google Gen AI Academy](https://img.shields.io/badge/Google%20Cloud-Gen%20AI%20Academy%20APAC%20Edition-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://certificate.hack2skill.com/verify/2026H2S04GCGENAIAPACC1-P01368)
 
 </div>
 
