@@ -202,12 +202,11 @@ ReadAR overlays dyslexia-friendly typographic transformations — adjusted lette
 ### Associate Software Engineer Trainee
 **Transcend Street India Pvt Ltd** &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; June 2026 – Present
 
-Recently joined the engineering team as a 2026 B.Tech graduate. Currently in the onboarding phase — getting up to speed with the codebase, internal tooling, team workflows, and engineering practices. Actively ramping up to take on independent feature work in the coming weeks.
-
-- Onboarding to the product codebase and internal development environment
-- Learning team conventions, code review processes, and delivery workflows
-- Collaborating with senior engineers to understand system architecture and design patterns
-- Bringing strong CS fundamentals, full-stack project experience, and ML knowledge to the team
+Recently joined Transcend Street India Pvt Ltd as part of the 2026 engineering batch. Currently undergoing structured training as part of the onboarding program, building foundational knowledge aligned with the company's engineering practices and technology stack.
+ 
+- Participating in the company's structured training program for new engineering hires
+- Building foundational understanding of internal processes, tools, and engineering standards
+- Preparing to transition into active development responsibilities upon training completion
 
 ![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-818cf8?style=flat-square&logo=javascript&logoColor=white)
@@ -265,8 +264,7 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Karthik__Sambangi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Karthik_Sambangi/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-karthiksaz25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/karthiksaz25/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-karthiksambangi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthiksambangi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-karthiksambangi-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthiksambangi)
+
 
 </div>
 
@@ -287,15 +285,7 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 </div>
 
----
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karthiksambangi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
@@ -341,12 +331,8 @@ exploring:
   - Agentic AI patterns: planning, memory, tool use
   - WebAR and AI-driven accessibility technology
 
-open_to:
-  - Full-time Software Engineering roles at product companies
-  - AI / ML Engineering positions
-  - Full Stack Development opportunities
-  - Open source collaboration on developer tools and AI projects
-```
+
+
 
 ---
 
