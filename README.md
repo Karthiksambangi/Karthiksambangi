@@ -47,7 +47,7 @@ My engineering philosophy is product-first: every system I build is driven by me
 
 I care deeply about clean architecture, readable code, and delivering software that scales — not just works.
 
-**Open To:** Full-time Software Engineering · AI/ML Engineering · Full Stack Development · Product Engineering roles
+
 
 ---
 
