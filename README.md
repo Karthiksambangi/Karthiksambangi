@@ -12,7 +12,6 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-karthiksambangi.vercel.app-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://karthiksambangi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-karthik--sambangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-sambangi-6a58a8308)
 [![Email](https://img.shields.io/badge/Email-karthiksambangi6%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksambangi6@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiksambangi)
@@ -30,14 +29,14 @@
 ## About
 
 ```yaml
-name    : Sambangi Narappagari Karthik
-role    : Associate Software Engineer @ Transcend Street India Pvt Ltd
-location: Hyderabad, Telangana, India
-education:
-  degree     : B.Tech in Information Technology
-  institution: Andhra University College of Engineering, Visakhapatnam
-  year       : 2026
-  cgpa       : 8.92 / 10 — Top 10%
+Name      : Sambangi Narappagari Karthik
+Role      : Associate Software Engineer @ Transcend Street India Pvt Ltd
+Location  : Hyderabad, Telangana, India
+Education :
+  Degree      : B.Tech in Information Technology
+  Institution : Andhra University College of Engineering, Visakhapatnam
+  Year        : 2026
+  CGPA        : 8.92 / 10 — Top 10%
 ```
 
 Software engineer with a strong foundation in full-stack development and applied machine learning, graduated from Andhra University College of Engineering with a CGPA of 8.92. Sambangi Narappagari Karthik designs and ships production-grade systems — from training ML pipelines and deploying multi-agent AI architectures to building responsive front-ends and scalable back-end APIs.
@@ -294,26 +293,6 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Karthiksambangi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthiksambangi&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&area=true&hide_border=true&area_color=6366f1)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 ## Contribution Snake
 
 <div align="center">
@@ -362,7 +341,6 @@ open_to:
 [![Gmail](https://img.shields.io/badge/Gmail-karthiksambangi6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksambangi6@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-sambangi-6a58a8308)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiksambangi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://karthiksambangi.vercel.app)
 
 </div>
 
