@@ -30,15 +30,14 @@
 ## About
 
 ```yaml
-Name    : Sambangi Narappagari Karthik
-Role    : Associate Software Engineer Trainee @ Transcend Street India Pvt Ltd
-Location: Hyderabad, Telangana, India
-Education degree : B.Tech in Information Technology
-Institution: Andhra University College of Engineering, Visakhapatnam
-Year       : 2026
-Cgpa       : 8.92 / 10 — Top 10%
-  
-
+name    : Sambangi Narappagari Karthik
+role    : Associate Software Engineer @ Transcend Street India Pvt Ltd
+location: Hyderabad, Telangana, India
+education:
+  degree     : B.Tech in Information Technology
+  institution: Andhra University College of Engineering, Visakhapatnam
+  year       : 2026
+  cgpa       : 8.92 / 10 — Top 10%
 ```
 
 Software engineer with a strong foundation in full-stack development and applied machine learning, graduated from Andhra University College of Engineering with a CGPA of 8.92. Sambangi Narappagari Karthik designs and ships production-grade systems — from training ML pipelines and deploying multi-agent AI architectures to building responsive front-ends and scalable back-end APIs.
@@ -47,7 +46,7 @@ My engineering philosophy is product-first: every system I build is driven by me
 
 I care deeply about clean architecture, readable code, and delivering software that scales — not just works.
 
-
+**Open To:** Full-time Software Engineering · AI/ML Engineering · Full Stack Development · Product Engineering roles
 
 ---
 
@@ -199,18 +198,18 @@ ReadAR overlays dyslexia-friendly typographic transformations — adjusted lette
 
 ## Experience
 
-### Associate Software Engineer Trainee
+### Associate Software Engineer
 **Transcend Street India Pvt Ltd** &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; June 2026 – Present
 
 Recently joined Transcend Street India Pvt Ltd as part of the 2026 engineering batch. Currently undergoing structured training as part of the onboarding program, building foundational knowledge aligned with the company's engineering practices and technology stack.
- 
+
 - Participating in the company's structured training program for new engineering hires
 - Building foundational understanding of internal processes, tools, and engineering standards
 - Preparing to transition into active development responsibilities upon training completion
 
-![Python](https://img.shields.io/badge/Python-6366f1?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-818cf8?style=flat-square&logo=javascript&logoColor=white)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-a5b4fc?style=flat-square&logo=layers&logoColor=white)
+![Training](https://img.shields.io/badge/Status-Training%20Phase-6366f1?style=flat-square&logoColor=white)
+![Python](https://img.shields.io/badge/Python-818cf8?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-a5b4fc?style=flat-square&logo=javascript&logoColor=white)
 
 ---
 
@@ -264,7 +263,8 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Karthik__Sambangi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Karthik_Sambangi/)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-karthiksaz25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/karthiksaz25/)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-karthiksambangi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthiksambangi)
+[![CodeChef](https://img.shields.io/badge/CodeChef-karthiksambangi-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthiksambangi)
 
 </div>
 
@@ -274,18 +274,34 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthiksambangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiksambangi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a5b4fc" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthiksambangi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=6366f1&text_color=a5b4fc&ring_color=6366f1&cache_seconds=1800&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiksambangi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a5b4fc&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthiksambangi&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
+<img src="https://streak-stats.demolab.com?user=Karthiksambangi&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
 
 </div>
 
+<div align="center">
 
+![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C778-6366f1?style=for-the-badge&logo=github&logoColor=white)
+![Years Active](https://img.shields.io/badge/Years%20Active-2023%20–%20Present-818cf8?style=for-the-badge&logo=github&logoColor=white)
+![2026 Contributions](https://img.shields.io/badge/2026%20Contributions-918-a5b4fc?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Karthiksambangi&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
@@ -331,8 +347,12 @@ exploring:
   - Agentic AI patterns: planning, memory, tool use
   - WebAR and AI-driven accessibility technology
 
-
-
+open_to:
+  - Full-time Software Engineering roles at product companies
+  - AI / ML Engineering positions
+  - Full Stack Development opportunities
+  - Open source collaboration on developer tools and AI projects
+```
 
 ---
 
