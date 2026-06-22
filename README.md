@@ -30,7 +30,7 @@
 
 ```yaml
 Name      : Sambangi Narappagari Karthik
-Role      : Associate Software Engineer @ Transcend Street India Pvt Ltd
+Role      : Associate Software Engineer Trainee @ Transcend Street India Pvt Ltd
 Location  : Hyderabad, Telangana, India
 Education :
   Degree      : B.Tech in Information Technology
@@ -197,7 +197,7 @@ ReadAR overlays dyslexia-friendly typographic transformations — adjusted lette
 
 ## Experience
 
-### Associate Software Engineer
+### Associate Software Engineer Trainee
 **Transcend Street India Pvt Ltd** &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; June 2026 – Present
 
 Recently joined Transcend Street India Pvt Ltd as part of the 2026 engineering batch. Currently undergoing structured training as part of the onboarding program, building foundational knowledge aligned with the company's engineering practices and technology stack.
@@ -293,19 +293,7 @@ Contributed to applied ML projects as part of the engineering team, working on d
 
 ---
 
-## Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karthiksambangi/Karthiksambangi/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karthiksambangi/Karthiksambangi/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Karthiksambangi/Karthiksambangi/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
----
 
 ## Current Focus
 
