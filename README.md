@@ -37,11 +37,11 @@
 ### 🧠 About Me
 
 ```yaml
-name: "Sambangi Narappagari Karthik"
-role: "Associate Software Engineer Trainee @ Transcend Street India"
-education: "B.Tech Information Technology — Andhra University College of Engineering"
-focus: ["AI/ML Systems", "Full Stack Engineering", "Cloud-Native Applications", "Multi-Agent Architectures"]
-philosophy: "Engineering products, not just code."
+Name: "Sambangi Narappagari Karthik"
+Role: "Associate Software Engineer Trainee @ Transcend Street India"
+Education: "B.Tech Information Technology — Andhra University College of Engineering"
+Focus: ["AI/ML Systems", "Full Stack Engineering", "Cloud-Native Applications", "Multi-Agent Architectures"]
+Philosophy: "Engineering products, not just code."
 ```
 
 I'm a software engineer with a strong foundation in **AI/ML systems** and **full-stack product engineering**, currently training at **Transcend Street India**. I design and ship multi-agent AI applications, scalable backend systems, and production-grade web platforms — with a product engineering mindset that prioritizes reliability, performance, and real-world usability over novelty.
