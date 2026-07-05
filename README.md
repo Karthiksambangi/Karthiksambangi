@@ -252,7 +252,7 @@ Contributed to machine learning-focused projects, gaining hands-on experience in
 | Recognition | Details |
 |---|---|
 | **Top 10% — B.Tech IT Department** | Andhra University College of Engineering, Visakhapatnam |
-| **CGPA 8.81/10** | B.Tech Information Technology |
+| **CGPA 8.92/10** | B.Tech Information Technology |
 | **Google Cloud Gen AI Academy APAC 2026** | Certificate of Completion — Multi-Agent AI System (Synapse) |
 | **Mercer \| Mettl Visionary Hackathon 2.0 Participant** | Built ReadAR — WebAR Dyslexia Reading Assistant |
 | **Flipkart Gridlock Hackathon 2.0 Participant** | Traffic demand forecasting with ensemble ML models |
