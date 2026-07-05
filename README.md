@@ -297,15 +297,7 @@ Contributed to machine learning-focused projects, gaining hands-on experience in
 
 ---
 
-### 🏅 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Karthiksambangi&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
----
 
 ### 📈 Contribution Activity
 
