@@ -1,334 +1,361 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header&text=Sambangi%20Narappagari%20Karthik&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=220&section=header&text=Sambangi%20Narappagari%20Karthik&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=50&lines=Building+intelligent+systems+at+scale;Turning+data+into+decisions+with+ML%2FAI;Full+stack+from+model+to+production;Crafting+software+that+solves+real+problems)](https://git.io/typing-svg)
-
-<br/>
-
-![B.Tech IT](https://img.shields.io/badge/B.Tech%20Information%20Technology-Andhra%20University-6366f1?style=flat-square&logo=graduation-cap&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-8.92%20%E2%80%A2%20Top%2010%25-818cf8?style=flat-square&logo=star&logoColor=white)
-![Location](https://img.shields.io/badge/Hyderabad%2C%20India-Transcend%20Street%20India%20Pvt%20Ltd-a5b4fc?style=flat-square&logo=google-maps&logoColor=white)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Associate+Software+Engineer+%40+Transcend+Street;AI%2FML+%2B+Full+Stack+Engineer;Building+Multi-Agent+AI+Systems;Hackathon+Enthusiast+%7C+Cloud+%26+GenAI" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-karthik--sambangi-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-sambangi-6a58a8308)
-[![Email](https://img.shields.io/badge/Email-karthiksambangi6%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksambangi6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiksambangi)
+![Education](https://img.shields.io/badge/B.Tech-Information%20Technology-6D28D9?style=flat-square&logo=graduation-cap&logoColor=white)
+![CGPA](https://img.shields.io/badge/CGPA-8.92%2F10-7C3AED?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-8B5CF6?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Karthiksambangi&style=flat-square&color=6366f1&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/Karthiksambangi?style=flat-square&color=818cf8&label=Followers&logo=github)
-![GitHub Stars](https://img.shields.io/github/stars/Karthiksambangi?style=flat-square&color=a5b4fc&label=Total+Stars&logo=github)
+<a href="https://linkedin.com/in/karthik-sambangi-6a58a8308" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:karthik.sambangi@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Karthiksambangi" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-3730A3?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Karthiksambangi&color=6D28D9&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Karthiksambangi?color=7C3AED&style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/Karthiksambangi?color=8B5CF6&style=flat-square&label=Stars)
 
 </div>
 
 ---
 
-## About
+### 🧠 About Me
 
 ```yaml
-Name      : Sambangi Narappagari Karthik
-Role      : Associate Software Engineer Trainee @ Transcend Street India Pvt Ltd
-Location  : Hyderabad, Telangana, India
-Education :
-  Degree      : B.Tech in Information Technology
-  Institution : Andhra University College of Engineering, Visakhapatnam
-  Year        : 2026
-  CGPA        : 8.92 / 10 — Top 10%
+name: "Sambangi Narappagari Karthik"
+role: "Associate Software Engineer Trainee @ Transcend Street India"
+education: "B.Tech Information Technology — Andhra University College of Engineering"
+focus: ["AI/ML Systems", "Full Stack Engineering", "Cloud-Native Applications", "Multi-Agent Architectures"]
+philosophy: "Engineering products, not just code."
 ```
 
-Software engineer with a strong foundation in full-stack development and applied machine learning, graduated from Andhra University College of Engineering with a CGPA of 8.92. Sambangi Narappagari Karthik designs and ships production-grade systems — from training ML pipelines and deploying multi-agent AI architectures to building responsive front-ends and scalable back-end APIs.
+I'm a software engineer with a strong foundation in **AI/ML systems** and **full-stack product engineering**, currently training at **Transcend Street India**. I design and ship multi-agent AI applications, scalable backend systems, and production-grade web platforms — with a product engineering mindset that prioritizes reliability, performance, and real-world usability over novelty.
 
-My engineering philosophy is product-first: every system I build is driven by measurable outcomes. I've shipped across the stack — React and Next.js front-ends, FastAPI and Node.js back-ends, YOLOv8-based computer vision pipelines, and LLM-powered agentic systems on Google Cloud. I hold internship experience in ML at Polystack Technologies and actively compete in engineering hackathons.
+My work spans **LLM orchestration**, **cloud deployment (GCP, Vercel)**, **RAG/agentic pipelines**, and **modern full-stack frameworks**. I actively compete in national-level hackathons, building end-to-end AI products under tight timelines — from ML forecasting pipelines to AR-based assistive technology.
 
-I care deeply about clean architecture, readable code, and delivering software that scales — not just works.
+<table>
+<tr>
+<td>
 
-**Open To:** Full-time Software Engineering · AI/ML Engineering · Full Stack Development · Product Engineering roles
+**🎯 Open To**
+- Software Engineering roles (SDE / AMTS)
+- AI/ML Engineering opportunities
+- Full Stack Development roles
+- Open Source Collaboration
+- Hackathons & Applied AI Challenges
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Tech Stack
-
-<div align="center">
+### 🛠️ Tech Stack
 
 **Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,java,cpp,c&theme=dark)](https://skillicons.dev)
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![SQL](https://skillicons.dev/icons?i=mysql)
 
 **Frontend**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark)](https://skillicons.dev)
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
 
 **Backend & Databases**
 
-[![My Skills](https://skillicons.dev/icons?i=fastapi,nodejs,express,mongodb,mysql,sqlite&theme=dark)](https://skillicons.dev)
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![Flask](https://skillicons.dev/icons?i=flask) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 
 **Cloud, DevOps & Tooling**
 
-[![My Skills](https://skillicons.dev/icons?i=gcp,docker,git,github,vscode,postman&theme=dark)](https://skillicons.dev)
-
-</div>
+![GCP](https://skillicons.dev/icons?i=gcp) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Docker](https://skillicons.dev/icons?i=docker) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
 
 ---
 
-## AI / ML Expertise
+### 🤖 AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| **Large Language Models** | ██████████ Advanced | LLaMA 3.3 70B via Groq, Gemini API, prompt engineering, multi-agent orchestration |
-| **Computer Vision** | █████████░ Advanced | YOLOv8, OpenCV, real-time object detection, ANPR pipelines |
-| **Machine Learning** | █████████░ Advanced | LightGBM, XGBoost, CatBoost, ensemble stacking, feature engineering |
-| **Agentic Systems** | ████████░░ Proficient | Multi-agent architectures, tool use, SSE streaming, FastAPI orchestration |
-| **MLOps & Deployment** | ████████░░ Proficient | Google Cloud Run, Docker, model serving, REST API design |
-| **NLP & Information Retrieval** | ███████░░░ Proficient | Text classification, ATS optimization, semantic similarity |
-| **AR / Emerging AI** | ██████░░░░ Developing | WebAR, MindAR.js, AI-driven assistive technology, dyslexia reading UX |
+| **LLM Orchestration** | ⭐⭐⭐⭐☆ | Multi-agent systems using Groq LLaMA 3.3 70B, agent-to-agent task routing |
+| **Generative AI APIs** | ⭐⭐⭐⭐☆ | Gemini API integration for resume optimization & conversational support |
+| **Applied ML** | ⭐⭐⭐⭐☆ | LightGBM, XGBoost, CatBoost ensembling with Optuna hyperparameter tuning |
+| **Computer Vision** | ⭐⭐⭐☆☆ | YOLOv8-based object detection with OpenCV pipelines |
+| **NLP & OCR** | ⭐⭐⭐☆☆ | Tesseract.js-based text extraction, accessibility-focused NLP tooling |
+| **AI System Design** | ⭐⭐⭐⭐☆ | Orchestrator-agent architecture, SSE streaming, stateful task pipelines |
 
 </div>
 
 ---
 
-## Featured Projects
+### 🚀 Featured Projects
 
 <details>
-<summary><b>⬡ Synapse — Multi-Agent AI Productivity Assistant</b></summary>
-
+<summary><strong>🧩 Synapse — Multi-Agent Productivity Assistant</strong></summary>
 <br/>
 
-An enterprise-grade multi-agent productivity platform built for the **Google Cloud Gen AI Academy APAC Edition**. Synapse orchestrates autonomous AI agents across task management, calendar scheduling, and email handling through a unified natural language interface — powered by Groq LLaMA 3.3 70B and deployed on Google Cloud Run.
+A multi-agent AI productivity assistant featuring an Orchestrator agent that delegates to specialized Task, Calendar, and Email agents, built for the Google Cloud Gen AI Academy APAC 2026 Hackathon.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
-| **Stack** | FastAPI · Groq LLaMA 3.3 70B · SQLite · SSE Streaming · Google Cloud Run · Python |
-| **Scale** | Multi-agent orchestration with real-time event streaming via Server-Sent Events |
-| **Performance** | Sub-second tool routing, persistent task state, concurrent agent execution |
-| **Security** | API key authentication, input sanitization, environment-isolated cloud deployment |
-| **Impact** | Demonstrated autonomous delegation across task, calendar, and email domains |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi%2FSynapse-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksambangi/synapse) |
+| **Stack** | Groq LLaMA 3.3 70B, FastAPI, SQLite, Server-Sent Events (SSE) |
+| **Scale** | Multi-agent orchestration with real-time task delegation |
+| **Performance** | Low-latency SSE streaming for live agent responses |
+| **Security** | Isolated agent scopes, structured API request validation |
+| **Impact** | Deployed live on Google Cloud Run; certified under Google Cloud Gen AI Academy APAC 2026 |
 
-The system implements an Orchestrator agent that interprets user intent and routes subtasks to specialized agents — Task Agent, Calendar Agent, and Email Agent — each with domain-scoped tools. Streaming responses via SSE give a real-time, conversational feel while maintaining full agent memory across sessions using SQLite persistence.
+Synapse demonstrates a production-style orchestrator-agent pattern where a central controller routes user intents to domain-specific agents, each handling scoped responsibilities (tasks, scheduling, email) while maintaining shared context via SQLite-backed state.
+
+🔗 [Repository](https://github.com/Karthiksambangi/synapse)
 
 </details>
 
 <details>
-<summary><b>⬡ ATS Resume Optimizer — AI-Powered Recruitment Intelligence</b></summary>
-
+<summary><strong>📄 ATS Resume Optimizer</strong></summary>
 <br/>
 
-A full-stack AI application that parses job descriptions and resumes to compute keyword match scores, surface ATS-critical gaps, and generate tailored optimization suggestions — leveraging the Gemini API for semantic analysis.
+An AI-powered resume optimization platform that analyzes resumes against job descriptions and provides ATS-focused improvement suggestions using generative AI.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
-| **Stack** | React · FastAPI · Gemini API · Python · REST API |
-| **Scale** | Single-session stateless API with support for multi-JD batch analysis |
-| **Performance** | Real-time score computation, semantic keyword extraction, ranked suggestion output |
-| **Security** | Input validation, API rate-limiting awareness, no PII persistence |
-| **Impact** | Enables engineers to improve ATS pass rates before submission, reducing screening drop-off |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksambangi) |
+| **Stack** | Gemini API, React, FastAPI, Vercel |
+| **Scale** | Handles multi-section resume parsing and JD-matching analysis |
+| **Performance** | Real-time AI-generated feedback with responsive UI |
+| **Security** | Client-side file handling with sanitized API payloads |
+| **Impact** | Used as a core resume-tailoring tool across multiple job applications |
 
-The optimizer extracts structured signals from both the JD and resume, computes a weighted keyword alignment score, and returns prioritized action items. Built with a React front-end for interactive input and FastAPI back-end for low-latency Gemini API calls, it targets engineers actively navigating competitive job markets.
+Built to bridge the gap between candidate resumes and ATS parsing systems, combining prompt-engineered Gemini API calls with a clean, recruiter-style UI for actionable resume feedback.
 
 </details>
 
 <details>
-<summary><b>⬡ WhatsApp AI Customer Support System — Conversational Commerce Infrastructure</b></summary>
-
+<summary><strong>💬 Automatic Customer WhatsApp Support System</strong></summary>
 <br/>
 
-A production-ready AI-powered customer support system integrated with the WhatsApp Business API. The system handles inbound queries, routes to intent-specific handlers, and delivers contextual responses — built on a Node.js + MongoDB back-end with an LLM-powered response layer.
+An AI-driven customer support automation system that handles WhatsApp conversations using generative AI for contextual, automated responses.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
-| **Stack** | Node.js · Express · MongoDB · WhatsApp Business API · Webhook Architecture |
-| **Scale** | Event-driven webhook processing for concurrent multi-user sessions |
-| **Performance** | Asynchronous message handling, session state persistence, low-latency response routing |
-| **Security** | Webhook signature verification, rate limiting, conversation isolation per user |
-| **Impact** | Reduces support load by automating tier-1 queries at WhatsApp scale |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksambangi) |
+| **Stack** | Gemini API, Node.js, MongoDB |
+| **Scale** | Automated conversational handling across customer support threads |
+| **Performance** | Context-aware response generation with persistent conversation history |
+| **Security** | MongoDB-backed session isolation per customer thread |
+| **Impact** | Demonstrates scalable AI-driven customer support automation |
 
-Designed with a modular intent-router architecture that cleanly separates message ingestion, session management, and response generation. MongoDB stores conversation context per user, enabling coherent multi-turn interactions without stateful server memory.
+Designed to reduce manual support overhead by handling common customer queries automatically while preserving conversational context across sessions.
 
 </details>
 
 <details>
-<summary><b>⬡ Automatic Number Plate Detection — Real-Time Computer Vision Pipeline</b></summary>
-
+<summary><strong>🚗 Automatic Number Plate Detection</strong></summary>
 <br/>
 
-A real-time Automatic Number Plate Recognition (ANPR) system leveraging YOLOv8 for detection and OCR for character extraction, with results persisted in a structured MySQL database for downstream querying and analytics.
+A computer vision system for real-time vehicle number plate detection and logging.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
-| **Stack** | YOLOv8 · OpenCV · Python · MySQL · OCR |
-| **Scale** | Real-time video frame processing pipeline with database write throughput |
-| **Performance** | High-accuracy plate localization under varied lighting and occlusion conditions |
-| **Security** | Controlled database write access, input frame sanitization |
-| **Impact** | Applicable to traffic monitoring, parking management, and vehicle access control systems |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksambangi) |
+| **Stack** | YOLOv8, OpenCV, MySQL |
+| **Scale** | Real-time video frame processing for plate detection |
+| **Performance** | Optimized inference pipeline for near real-time detection |
+| **Security** | Structured MySQL logging of detected plate records |
+| **Impact** | Applicable to smart parking, toll, and surveillance systems |
 
-Built a two-stage pipeline: YOLOv8 handles plate region detection in each video frame, followed by an OCR module that extracts alphanumeric text from the cropped region. Detected plates with confidence scores and timestamps are written to MySQL for retrieval and reporting.
+Combines YOLOv8 object detection with OpenCV preprocessing to accurately localize and log vehicle number plates, with detection results persisted to a relational database.
 
 </details>
 
 <details>
-<summary><b>⬡ ReadAR — WebAR Dyslexia Reading Assistant</b></summary>
-
+<summary><strong>♿ ReadAR — WebAR Dyslexia Reading Assistant</strong></summary>
 <br/>
 
-An augmented reality reading assistant for individuals with dyslexia, built as a single-file WebAR application using MindAR.js. Submitted to the **Mercer | Mettl Visionary Hackathon 2.0** under the Healthcare / Open Innovation theme.
+An accessibility-focused WebAR application built for the Mercer | Mettl Visionary Hackathon 2.0, targeting the Healthcare theme for India's dyslexia demographic.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
-| **Stack** | WebAR · MindAR.js · HTML · JavaScript · Three.js |
-| **Scale** | Client-side, zero-install, browser-native AR — deployable to any device with a camera |
-| **Performance** | Marker-based AR with real-time overlay rendering at interactive frame rates |
-| **Security** | Fully client-side; no data transmission or user tracking |
-| **Impact** | Lowers barriers to assistive reading technology for dyslexic users via accessible WebAR |
-| **Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Karthiksambangi-6366f1?style=flat-square&logo=github&logoColor=white)](https://github.com/Karthiksambangi) |
+| **Stack** | Tesseract.js, OpenDyslexic Font, Web Speech API, Firebase |
+| **Scale** | Real-time text capture, transformation, and speech-assisted reading |
+| **Performance** | Low-latency OCR-to-speech pipeline |
+| **Security** | Firebase-backed secure data handling |
+| **Impact** | Assistive technology aimed at improving reading accessibility for dyslexic users |
 
-ReadAR overlays dyslexia-friendly typographic transformations — adjusted letter spacing, OpenDyslexic font, color tinting — directly onto printed text using AR marker detection, without requiring any native app install. Designed to be deployable as a single `.html` file with zero backend dependency.
+ReadAR captures real-world text via camera, reformats it using dyslexia-friendly typography, and provides speech-assisted reading support — combining OCR, accessibility design, and AR principles.
+
+</details>
+
+<details>
+<summary><strong>📦 Flipkart Gridlock — Traffic Demand Forecasting</strong></summary>
+<br/>
+
+A machine learning competition entry focused on forecasting traffic/delivery demand using ensemble modeling techniques.
+
+| Category | Details |
+|---|---|
+| **Stack** | LightGBM, XGBoost, CatBoost, Optuna, Ridge Stacking |
+| **Scale** | Ensemble stacking across multiple gradient boosting models |
+| **Performance** | Optuna-tuned hyperparameters for optimized forecast accuracy |
+| **Security** | N/A (data science competition pipeline) |
+| **Impact** | Built for competitive leaderboard ranking in Flipkart Gridlock Hackathon 2.0 |
+
+A rigorous forecasting pipeline combining three gradient boosting frameworks with a Ridge regression meta-learner, tuned via Optuna for leaderboard-optimized performance.
 
 </details>
 
 ---
 
-## Experience
+### 💼 Experience
 
-### Associate Software Engineer Trainee
-**Transcend Street India Pvt Ltd** &nbsp;·&nbsp; Hyderabad, India &nbsp;·&nbsp; June 2026 – Present
+**Associate Software Engineer Trainee**
+**Transcend Street India Pvt Ltd** · Hyderabad, India
+*2026 — Present*
 
-Recently joined Transcend Street India Pvt Ltd as part of the 2026 engineering batch. Currently undergoing structured training as part of the onboarding program, building foundational knowledge aligned with the company's engineering practices and technology stack.
+Currently undergoing structured technical training focused on software engineering fundamentals, professional communication, and enterprise development practices.
 
-- Participating in the company's structured training program for new engineering hires
-- Building foundational understanding of internal processes, tools, and engineering standards
-- Preparing to transition into active development responsibilities upon training completion
+- Completed structured training modules covering software engineering fundamentals and workplace best practices
+- Delivered technical RCA (Root Cause Analysis) presentations as part of soft-skills and professional communication training
+- Handled enterprise workflows including structured documentation and process-driven communication
+- Building foundational experience in enterprise-grade software development practices
 
-![Training](https://img.shields.io/badge/Status-Training%20Phase-6366f1?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-818cf8?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-a5b4fc?style=flat-square&logo=javascript&logoColor=white)
-
----
-
-### Machine Learning Intern
-**Polystack Technologies** &nbsp;·&nbsp; Remote &nbsp;·&nbsp; 2025
-
-Contributed to applied ML projects as part of the engineering team, working on data pipelines, model development, and evaluation workflows in a production-adjacent environment.
-
-- Built and validated supervised learning pipelines for structured data use cases
-- Collaborated on feature engineering, model selection, and performance benchmarking
-- Gained hands-on experience with ML lifecycle tooling from data ingestion to inference
-- Applied Python-based ML stack (scikit-learn, pandas, NumPy) in iterative model development cycles
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6366f1?style=flat-square&logo=python&logoColor=white)
-![Python](https://img.shields.io/badge/Python-818cf8?style=flat-square&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-a5b4fc?style=flat-square&logo=numpy&logoColor=white)
+`Software Engineering` `Enterprise Training` `Technical Communication` `Process Documentation`
 
 ---
 
-## Achievements
+**Machine Learning Intern**
+**Polystack Technologies**
+
+Contributed to machine learning-focused projects, gaining hands-on experience in applied ML workflows.
+
+- Worked on applied machine learning tasks within a professional engineering environment
+- Gained exposure to real-world ML project workflows and collaborative development
+
+`Machine Learning` `Python` `Data Analysis`
+
+---
+
+### 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| 🏆 **Google Cloud Gen AI Academy APAC** | Built and presented Synapse — a multi-agent AI productivity assistant — as part of the competitive APAC cohort program by Google Cloud |
-| 🥇 **Mercer \| Mettl Visionary Hackathon 2.0** | Designed and submitted ReadAR, a WebAR dyslexia reading assistant targeting the Healthcare / Open Innovation theme |
-| 📊 **Flipkart Gridlock Hackathon 2.0** | Engineered a competitive ML forecasting pipeline (LightGBM · XGBoost · CatBoost · Ridge stacking) for traffic demand prediction |
-| 🎓 **Top 10% of Graduating Cohort** | Achieved CGPA of 8.92/10 at Andhra University College of Engineering, Information Technology |
-| 💼 **Deloitte Recruitment Pipeline** | Advanced through Deloitte's second-chance recruitment process, optimizing for immediate availability and strong engineering fit |
+| **Top 10% — B.Tech IT Department** | Andhra University College of Engineering, Visakhapatnam |
+| **CGPA 8.81/10** | B.Tech Information Technology |
+| **Google Cloud Gen AI Academy APAC 2026** | Certificate of Completion — Multi-Agent AI System (Synapse) |
+| **Mercer \| Mettl Visionary Hackathon 2.0 Participant** | Built ReadAR — WebAR Dyslexia Reading Assistant |
+| **Flipkart Gridlock Hackathon 2.0 Participant** | Traffic demand forecasting with ensemble ML models |
 
 </div>
 
 ---
 
-## Certifications
-
-<div align="center">
+### 📜 Certifications
 
 **Google Cloud**
 
-[![Google Gen AI Academy](https://img.shields.io/badge/Google%20Cloud-Gen%20AI%20Academy%20APAC%20Edition-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://certificate.hack2skill.com/verify/2026H2S04GCGENAIAPACC1-P01368)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud_Gen_AI_Academy_APAC_2026-6D28D9?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<sub>Verified: [certificate.hack2skill.com](https://certificate.hack2skill.com/verify/2026H2S04GCGENAIAPACC1-P01368)</sub>
+
+---
+
+### 🧑‍💻 Coding Profiles
+
+<div align="center">
+
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 
 </div>
 
 ---
 
-## Coding Profiles
+### 📊 GitHub Analytics
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Karthik__Sambangi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Karthik_Sambangi/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-karthiksaz25-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/karthiksaz25/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-karthiksambangi-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/karthiksambangi)
-[![CodeChef](https://img.shields.io/badge/CodeChef-karthiksambangi-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/karthiksambangi)
+<img src="https://github-readme-stats.vercel.app/api?username=Karthiksambangi&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%" />
+<img src="https://streak-stats.demolab.com?user=Karthiksambangi&theme=radical&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiksambangi&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" width="48%" />
 
 </div>
 
 ---
 
-## GitHub Analytics
+### 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthiksambangi&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=a5b4fc&cache_seconds=1800" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Karthiksambangi&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=6366f1&fire=818cf8&currStreakLabel=a5b4fc&sideLabels=a5b4fc&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280" />
-
-</div>
-
-<div align="center">
-
-![Total Contributions](https://img.shields.io/badge/Total%20Contributions-1%2C778-6366f1?style=for-the-badge&logo=github&logoColor=white)
-![Years Active](https://img.shields.io/badge/Years%20Active-2023%20–%20Present-818cf8?style=for-the-badge&logo=github&logoColor=white)
-![2026 Contributions](https://img.shields.io/badge/2026%20Contributions-918-a5b4fc?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Karthiksambangi&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
 ---
 
+### 📈 Contribution Activity
 
+<div align="center">
 
-## Current Focus
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karthiksambangi&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" width="95%" />
+
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Karthiksambangi/Karthiksambangi/output/github-contribution-grid-snake-dark.svg" width="95%" />
+
+</div>
+
+---
+
+### 🎯 Current Focus
 
 ```yaml
-learning:
-  - Advanced LLM fine-tuning and RAG pipeline architecture
-  - System design for distributed, high-throughput services
-  - Salesforce platform development (Apex, LWC, Platform Events)
-
-building:
-  - AI-powered developer tooling and productivity systems
-  - Production ML pipelines with robust evaluation frameworks
-  - Full-stack applications with real-world user impact
-
-exploring:
-  - Multi-modal AI systems and vision-language models
-  - Agentic AI patterns: planning, memory, tool use
-  - WebAR and AI-driven accessibility technology
-
-open_to:
-  - Full-time Software Engineering roles at product companies
-  - AI / ML Engineering positions
-  - Full Stack Development opportunities
-  - Open source collaboration on developer tools and AI projects
+current_focus:
+  learning:
+    - "Advanced DSA (LeetCode Medium/Hard)"
+    - "System Design Fundamentals"
+    - "Agentic AI Architectures"
+  building:
+    - "Production-grade multi-agent AI systems"
+    - "Full-stack AI-powered applications"
+  exploring:
+    - "RAG pipelines & vector databases"
+    - "Cloud-native AI deployment patterns"
+  open_to:
+    - "Software Engineering Roles (SDE / AMTS)"
+    - "AI/ML Engineering Opportunities"
+    - "Open Source Collaboration"
 ```
 
 ---
 
-## Connect
+### 📬 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-karthiksambangi6%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karthiksambangi6@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-sambangi-6a58a8308)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-818cf8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Karthiksambangi)
+<a href="mailto:karthik.sambangi@example.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/karthik-sambangi-6a58a8308"><img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Karthiksambangi"><img src="https://img.shields.io/badge/GitHub-3730A3?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 </div>
 
@@ -336,8 +363,8 @@ open_to:
 
 <div align="center">
 
-*Good engineering is invisible — it's the absence of friction, the presence of clarity, and the discipline to build what matters.*
+*"Great engineering is invisible — it just works, at scale, under pressure."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer&fontColor=ffffff" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer)
 
 </div>
